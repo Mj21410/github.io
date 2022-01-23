@@ -5,7 +5,8 @@
 
 
 ```
-Syntax highlighted code block
+If youre a decent website designer and wanna help hit me up anytime! 
+Email: team@pla2earn.com
 
 ```
 
