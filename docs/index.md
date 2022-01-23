@@ -23,12 +23,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="description" content="HTTrack is an easy-to-use website mirror utility. It allows you to download a World Wide website from the Internet to a local directory,building recursively all structures, getting html, images, and other files from the server to your computer. Links are rebuiltrelatively so that you can freely browse to the local site (works with any browser). You can mirror several sites together so that you can jump from one toanother. You can, also, update an existing mirror site, or resume an interrupted download. The robot is fully configurable, with an integrated help" />
-	<meta name="keywords" content="httrack, HTTRACK, HTTrack, winhttrack, WINHTTRACK, WinHTTrack, offline browser, web mirror utility, aspirateur web, surf offline, web capture, www mirror utility, browse offline, local  site builder, website mirroring, aspirateur www, internet grabber, capture de site web, internet tool, hors connexion, unix, dos, windows 95, windows 98, solaris, ibm580, AIX 4.0, HTS, HTGet, web aspirator, web aspirateur, libre, GPL, GNU, free software" />
-	<title>Local index - HTTrack Website Copier</title>
-  <!-- Mirror and index made by HTTrack Website Copier/3.49-2 [XR&CO'2014] -->
-	<style type="text/css">
-	<!--
+	
 
 body {
 	margin: 0;  padding: 0;  margin-bottom: 15px;  margin-top: 8px;
@@ -115,8 +110,7 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 		<td id="pageContent"> 
 <!-- ==================== End prologue ==================== -->
 
-	<meta name="generator" content="HTTrack Website Copier/3.x">
-	<TITLE>Local index - HTTrack</TITLE>
+
 </HEAD>
 <BODY>
 <H1 ALIGN=Center>Index of locally available sites:</H1>
@@ -124,8 +118,8 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 		<TR>
 			<TD BACKGROUND="fade.gif">
 				&middot;
-					<A HREF="playtoearn.net/blockchaingames.html">
-						PlayToEarn - Best Blockchain Games List - Crypto Games
+					<A HREF="pla2earn.com">
+						Pla2Earn - Best Blockchain Games - NFT - Airdrop Watclist
 					</A>		
 			</TD>
 		</TR>
@@ -136,9 +130,7 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
   	<H6 ALIGN="RIGHT">
 	<I>Mirror and index made by HTTrack Website Copier [XR&amp;CO'2008]</I>
 	</H6>
-	<!-- Mirror and index made by HTTrack Website Copier/3.49-2 [XR&CO'2014] -->
-	<!-- Thanks for using HTTrack Website Copier! -->
-	<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=playtoearn.net/blockchaingames.html">
+	<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=pla2earn.com">
 
 
 <!-- ==================== Start epilogue ==================== -->
