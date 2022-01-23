@@ -111,7 +111,7 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 
 </HEAD>
 <BODY>
-<H1 ALIGN=Center>Index of locally available sites:</H1>
+<!---<H1 ALIGN=Center>Index of locally available sites:</H1>--->
 	<TABLE BORDER="0" WIDTH="100%" CELLSPACING="1" CELLPADDING="0">
 		<TR>
 			<TD BACKGROUND="fade.gif">
@@ -127,9 +127,7 @@ h4 { margin: 0;  font-weight: bold;  font-size: 1.18em; }
 	<BR>
   	<H6 ALIGN="RIGHT">
 		</H6>
-	<meta HTTP-EQUIV="Refresh" CONTENT="0; URL=https://www.pla2earn.com">
-
-
+	
 <!-- ==================== Start epilogue ==================== -->
 		</td>
 		</tr>
