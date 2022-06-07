@@ -1,6 +1,5 @@
 ## Welcome to pla2earn.com
 
-### Bad Ass new website coming. Construction currently underway. Check back in soon!
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
