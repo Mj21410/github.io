@@ -2,11 +2,6 @@
 
 ### Bad Ass new website coming. Construction currently underway. Check back in soon!
 
-<!-- BEGIN SHAREAHOLIC CODE -->
-<link rel="preload" href="https://cdn.shareaholic.net/assets/pub/shareaholic.js" as="script" />
-<meta name="shareaholic:site_id" content="770cd355fd62937a43e8b6c213ce7879" />
-<script data-cfasync="false" async src="https://cdn.shareaholic.net/assets/pub/shareaholic.js"></script>
-<!-- END SHAREAHOLIC CODE -->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=G-930DBR07V1"></script>
@@ -19,6 +14,12 @@
 </script> -->
 
 <!---For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+<!-- BEGIN SHAREAHOLIC CODE -->
+<link rel="preload" href="https://cdn.shareaholic.net/assets/pub/shareaholic.js" as="script" />
+<meta name="shareaholic:site_id" content="770cd355fd62937a43e8b6c213ce7879" />
+<script data-cfasync="false" async src="https://cdn.shareaholic.net/assets/pub/shareaholic.js"></script>
+<!-- END SHAREAHOLIC CODE -->
 
 ### Jekyll Themes
 
